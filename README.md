@@ -1,2 +1,2 @@
-# Mushroom_App
-R Shiny app for mushrooms dataset
+# Mushroom_project
+R files for mushroom project
